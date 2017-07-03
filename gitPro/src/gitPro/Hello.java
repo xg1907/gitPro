@@ -2,6 +2,6 @@ package gitPro;
 
 public class Hello {
 	public static void main(String[] args) {
-		int remote = 1;
+		System.out.println("输出1");
 	}
 }

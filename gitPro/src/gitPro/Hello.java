@@ -5,4 +5,10 @@ public class Hello {
 		System.out.println("输出123456");
 		int remote = 3;
 	}
+	
+	private Hello(){
+		
+	}
+	
+	
 }

@@ -9,6 +9,9 @@ public class Hello {
 	private Hello(){
 		
 	}
+	public void out(){
+		
+	}
 	
 	
 }
